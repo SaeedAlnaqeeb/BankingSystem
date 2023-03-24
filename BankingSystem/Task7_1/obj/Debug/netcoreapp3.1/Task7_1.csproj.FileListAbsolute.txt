@@ -1,0 +1,27 @@
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.csproj.AssemblyReference.cache
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.AssemblyInfoInputs.cache
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.AssemblyInfo.cs
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.csproj.CoreCompileInputs.cache
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.deps.json
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.runtimeconfig.json
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.runtimeconfig.dev.json
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.dll
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.pdb
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.dll
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.pdb
+/Users/salnaqeeb/Desktop/Deakin 1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.genruntimeconfig.cache
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.deps.json
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.runtimeconfig.json
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.runtimeconfig.dev.json
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.dll
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/bin/Debug/netcoreapp3.1/Task7_1.pdb
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.csproj.AssemblyReference.cache
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.AssemblyInfoInputs.cache
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.AssemblyInfo.cs
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.csproj.CoreCompileInputs.cache
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.dll
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.pdb
+/Users/salnaqeeb/Desktop/Deakin/1T1/Object Oriented Dev/P Tasks/7.1/Task7_1/Task7_1/obj/Debug/netcoreapp3.1/Task7_1.genruntimeconfig.cache
